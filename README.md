@@ -45,6 +45,6 @@ Aljawarneh, S., Lara, J.A. & Yassein, M.B. A visual big data system for the pred
    month=oct, pages={13103–13139}}
 
 ```
+## Acknoledgements
 
-
-
+The paper associated with this repository was drafted as part of Juan A. Lara’s research stay during 2019-2020 at Jordan University of Science and Technology, JUST (Jordan), which partially sponsored this research. The authors would like to thank UDIMA’s and JUST’s students who took part in the design and implementation of the system, particularly Francisco Javier Moreno Hermosilla and Paulina Pyzel from UDIMA (whose final degree dissertations can be found at "doc" folder), and Amnah Al-Abdi from JUST; and JUST’s experts for providing their feedback in order to assess this system.
