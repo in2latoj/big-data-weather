@@ -22,7 +22,7 @@ A user guide can be found in the folder: [`doc`](doc/User_guide.pdf).
 ├── data/               # Used Data
 ├── doc/                # Documentation associated to the project
 ├── src/                # Source code for the application
-├── LICENSE		# Code license
+├── LICENSE		         # Code license
 └── README.md           # Project summary
 ```
 
